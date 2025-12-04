@@ -15,3 +15,4 @@ router.get("/:id", authMiddleware, getProfileById);
 export default router;
 
 
+

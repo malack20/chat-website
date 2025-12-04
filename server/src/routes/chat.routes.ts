@@ -9,3 +9,4 @@ router.get("/:matchId/messages", authMiddleware, getMessagesForMatch);
 export default router;
 
 
+

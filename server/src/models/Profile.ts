@@ -26,3 +26,4 @@ const ProfileSchema = new Schema<IProfile>(
 export const Profile = mongoose.model<IProfile>("Profile", ProfileSchema);
 
 
+
